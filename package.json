@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config",
+  "version": "0.1.0",
+  "description": "Configuration of eslint for multiple types of application, based on airbnb eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emzawadzki/eslint-config.git"
+  },
+  "author": "Emzawadzki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emzawadzki/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Emzawadzki/eslint-config#readme"
+}
